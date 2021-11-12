@@ -1,5 +1,8 @@
 .nav-button {
   color: white !important;
+  font-family: 'Barlow', sans-serif;
+  font-style: normal;
+  font-weight: normal;
   font-size: 24px;
   padding-bottom: 28px;
 }
@@ -7,7 +10,11 @@
 .action {
   border-radius: 30px;
   border-width: 4px;
-  font-weight: 700;
+  font-family: 'Barlow', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  letter-spacing: 0.08em;
   width: 210px;
   color: #FDA094;
   border-color: #FDA094;
@@ -15,21 +22,20 @@
 
 .top {
   color: white;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Barlow', sans-serif;
   font-size: 24px;
   font-style: normal;
-  font-weight: 700;
+  font-weight: 100;
   letter-spacing: 0em;
 }
 
-.mid {
+.middle {
   color: white;
   font-family: 'Barlow', sans-serif;
-  font-style: normal;
-  font-weight: 800;
+  font-weight: 780;
   font-size: 64px;
-  line-height: 77px;
   letter-spacing: 0em;
+  line-height: 64px;
 }
 
 .bottom {
@@ -38,5 +44,5 @@
   font-style: normal;
   font-weight: 500;
   font-size: 24px;
-  line-height: 29px;
+  padding: 8px 0px 16px 0px;
 }
