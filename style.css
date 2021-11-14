@@ -56,3 +56,16 @@
 .faq-button {
   border-radius: 15px;
 }
+
+.involved_header {
+  border-radius: 10px;
+  background-color: #181d46;
+  color: white;
+  display: flex;
+  height: 60px;
+  justify-content: center;
+  align-items: center;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+}
