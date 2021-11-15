@@ -72,3 +72,7 @@
   font-size: 18px;
   letter-spacing: .095em;
 }
+
+.involved_header:hover {
+  cursor: pointer;
+}
