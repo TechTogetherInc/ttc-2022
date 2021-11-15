@@ -69,3 +69,7 @@
   font-weight: bold;
   font-size: 18px;
 }
+
+.involved_header:hover {
+  cursor: pointer;
+}
