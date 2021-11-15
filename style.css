@@ -7,6 +7,10 @@
   padding-bottom: 28px;
 }
 
+.nav-button:hover {
+  color: #181d46 !important;
+}
+
 .action {
   border-radius: 30px;
   border-width: 4px;
@@ -70,7 +74,7 @@
   font-style: normal;
   font-weight: 550;
   font-size: 18px;
-  letter-spacing: .095em;
+  letter-spacing: 0.095em;
 }
 
 .involved_header:hover {
