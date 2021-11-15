@@ -63,9 +63,12 @@
   color: white;
   display: flex;
   height: 60px;
-  justify-content: center;
+  justify-content: left;
+  padding-left: 5%;
   align-items: center;
+  font-family: "Barlow", sans-serif;
   font-style: normal;
-  font-weight: bold;
+  font-weight: 550;
   font-size: 18px;
+  letter-spacing: .095em;
 }
