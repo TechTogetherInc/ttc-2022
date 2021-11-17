@@ -80,3 +80,42 @@
 .involved_header:hover {
   cursor: pointer;
 }
+
+.card {
+  background-color: white;
+  border-radius: 5%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.card-title {
+  color: #333f9b;
+  font-family: "Barlow", sans-serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: normal;
+}
+
+.card-text {
+  color: #333f9b;
+  font-family: "Barlow", sans-serif;
+  font-style: normal;
+  font-size: 20px;
+  font-weight: normal;
+}
+
+.btn-custom {
+  color: white;
+  background-color: #333f9b;
+  font-family: "Barlow", sans-serif;
+  font-style: normal;
+  font-size: 22px;
+}
+
+.btn-custom:hover {
+  color: #333f9b;
+  background-color: white;
+  font-family: "Barlow", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+}
