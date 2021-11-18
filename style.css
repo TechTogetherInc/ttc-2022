@@ -57,10 +57,6 @@
   padding: 8px 0px 16px 0px;
 }
 
-.faq-button {
-  border-radius: 15px;
-}
-
 .involved_header {
   border-radius: 10px;
   background-color: #181d46;
@@ -118,4 +114,22 @@
   font-family: "Barlow", sans-serif;
   font-style: normal;
   font-weight: bold;
+}
+
+.accordion-body {
+  text-align: left;
+  color: #FFFFFF;
+  background-color: #181d46;
+}
+
+.accordion-button.collapsed {
+  color: #FFFFFF;
+  font-weight: bold;
+  background-color: #181d46;
+  border-radius: 10px;
+}
+
+.accordion-flush {
+  padding-bottom: 8px;
+  border-radius: 10px;
 }
