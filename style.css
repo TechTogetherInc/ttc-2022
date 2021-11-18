@@ -129,7 +129,15 @@
   border-radius: 10px;
 }
 
+.accordion-button.collapsed::after {
+  background-image: color(#FFFFFF);
+}
+
 .accordion-flush {
   padding-bottom: 8px;
   border-radius: 10px;
+}
+
+.h4-a:hover {
+  color: #fda094;
 }
