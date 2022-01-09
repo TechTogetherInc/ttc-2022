@@ -116,17 +116,24 @@
   font-weight: bold;
 }
 
+.accordion {
+  border-top-left-radius: 15px !important;
+  border-top-right-radius: 15px !important;
+}
+
 .accordion-body {
   text-align: left;
   color: #FFFFFF;
   background-color: #181d46;
+  border-bottom-left-radius: 15px !important;
+  border-bottom-right-radius: 15px !important;
 }
 
-.accordion-button.collapsed {
+.accordion-button {
   color: #FFFFFF;
   font-weight: bold;
   background-color: #181d46;
-  border-radius: 10px;
+  border-radius: 15px !important;
 }
 
 .accordion-button.collapsed::after {
@@ -135,9 +142,13 @@
 
 .accordion-flush {
   padding-bottom: 8px;
-  border-radius: 10px;
 }
 
 .row a:hover {
   color: #181d46;
+}
+
+.faq {
+  background-color: #181d46;
+  border-radius: 15px !important;
 }
