@@ -123,21 +123,21 @@
 
 .accordion-body {
   text-align: left;
-  color: #FFFFFF;
+  color: #ffffff;
   background-color: #181d46;
   border-bottom-left-radius: 15px !important;
   border-bottom-right-radius: 15px !important;
 }
 
 .accordion-button {
-  color: #FFFFFF;
+  color: #ffffff;
   font-weight: bold;
   background-color: #181d46;
   border-radius: 15px !important;
 }
 
 .accordion-button.collapsed::after {
-  background-image: color(#FFFFFF);
+  background-image: color(#ffffff);
 }
 
 .accordion-flush {
@@ -151,4 +151,10 @@
 .faq {
   background-color: #181d46;
   border-radius: 15px !important;
+}
+
+.scheduledevent:hover {
+  background-color: #fda094;
+  color: black;
+  cursor: pointer;
 }
