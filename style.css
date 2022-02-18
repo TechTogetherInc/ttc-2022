@@ -167,9 +167,13 @@
 .class-head {
   color: #333f9b;
   text-decoration: none;
-  background-color: #FFFFFF;
-  border-radius: 10%;
-  padding: 0% 2% 0% 2%;
+  border: none;
+  border-radius: 25px;
+  font-weight: 500;
+  font-size: x-large;
+  overflow: hidden;
+  padding: 25px;
+
 }
 
 .class-head:hover {
