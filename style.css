@@ -153,6 +153,44 @@
   border-radius: 15px !important;
 }
 
+.chall-link {
+  color: #333f9b;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.chall-link:hover {
+  color: #FFFFFF;
+}
+
+.class-head {
+  color: #333f9b;
+  text-decoration: none;
+  border: none;
+  border-radius: 25px;
+  font-weight: 500;
+  font-size: x-large;
+  overflow: hidden;
+  padding: 25px;
+
+}
+
+.class-head:hover {
+  color: #fda094;
+}
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
+
 .scheduledevent:hover {
   background-color: #fda094;
   color: black;
